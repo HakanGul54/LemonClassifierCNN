@@ -25,3 +25,5 @@ I am also using Cross Entropy Loss and Adam optimizer with learning rate of 0.00
 
 Trained the model on CUDA with 30 epochs and around 2500 training images.
 After 30 epochs, the model reached 99.27% accuracy and a loss of 0.5598. 
+
+#### Credits: Used code snippets from pytorch website and stackoverflow for visualizing the model
